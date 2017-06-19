@@ -80,7 +80,7 @@ function getAjax() {
                         q: encodeURI(tag),
                         count: 15
                     },
-                    dataType: "json",
+                    // dataType: "json",
                     success: function(resp) {
 
 

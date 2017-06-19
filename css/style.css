@@ -3,6 +3,8 @@ background-image: url(../img/bg3.jpg);
 background-size:cover;
 padding:0px;
 margin:0px;
+overflow: hidden;
+
 }
 
 Body:before {

@@ -180,7 +180,7 @@ function getAjax() {
         error: function(errors) {
 
 
-            console.log("błąd");
+            console.log("błąd", errors);
         }
     });
 
